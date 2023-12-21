@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/google-keep-app/static/css/main.aa63e9c6.css",
+    "main.js": "/google-keep-app/static/js/main.a3dd16e5.js",
+    "static/media/meeting.webp": "/google-keep-app/static/media/meeting.2c7bf6ab907a2d3702df.webp",
+    "static/media/lasagna.webp": "/google-keep-app/static/media/lasagna.64cf48c2763f6e3b10a1.webp",
+    "static/media/book.jpg": "/google-keep-app/static/media/book.f7dd9da48553db110baf.jpg",
+    "index.html": "/google-keep-app/index.html",
+    "main.aa63e9c6.css.map": "/google-keep-app/static/css/main.aa63e9c6.css.map",
+    "main.a3dd16e5.js.map": "/google-keep-app/static/js/main.a3dd16e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa63e9c6.css",
+    "static/js/main.a3dd16e5.js"
+  ]
+}
