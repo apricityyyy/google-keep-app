@@ -1,0 +1,32 @@
+{
+    "notes": [
+        {
+            "title": "Meeting Notes",
+            "content": "Discuss project timeline and milestones.",
+            "createdDate": "2023-01-15",
+            "image": "./images/meeting.webp"
+        },
+        {
+            "title": "Grocery List",
+            "content": "Milk, eggs, bread, vegetables.",
+            "createdDate": "2023-02-01"
+        },
+        {
+            "title": "Recipe",
+            "content": "Ingredients and steps to make lasagna.",
+            "createdDate": "2023-03-10",
+            "image": "./images/lasagna.webp"
+        },
+        {
+            "title": "Workout Plan",
+            "content": "30 minutes of cardio, 20 minutes of strength training.",
+            "createdDate": "2023-04-05"
+        },
+        {
+            "title": "Book Recommendations",
+            "content": "Check out \"The Alchemist\" and \"Sapiens\".",
+            "createdDate": "2023-05-20",
+            "image": "./images/book.jpg"
+        }
+    ]
+}

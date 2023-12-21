@@ -2,18 +2,19 @@
 import React from 'react';
 
 const Note = ({ title, content, createdDate, image }) => {
-  const formattedDate = createdDate.toLocaleDateString();
 
   function handleClick() {
-    alert(`Title: ${title}, Created on: ${formattedDate}`);
+    alert(`Title: ${title}, Created on: ${createdDate}`);
   }
-  
+
+  const imagePath = image ? require(`.${image.substring(1)}`) : '';
+
   return (
     <div className="note" onClick={handleClick}>
       <h3>{title}</h3>
       <p>{content}</p>
-      <p>{formattedDate}</p>
-      {image && <img src={image} alt="Note" />}
+      <p>{createdDate}</p>
+      {image && <img src={imagePath} alt="Note" />}
     </div>
   );
 };
